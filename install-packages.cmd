@@ -9,6 +9,7 @@ choco install -y lghub
 choco install -y obs-studio
 choco install -y vlc
 choco install -y vscode
+choco install -y nvidia-display-driver
 
 # upgrade all
 choco upgrade all -y

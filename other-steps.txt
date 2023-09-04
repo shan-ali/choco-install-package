@@ -1,2 +1,5 @@
 set powershell execution policy
 set-executionpolicy remotesigned
+
+# import start layout
+Import-StartLayout -LayoutPath "start-layout.xml" -MountPath "C:\"

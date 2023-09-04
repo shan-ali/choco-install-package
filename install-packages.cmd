@@ -11,6 +11,7 @@ choco install -y vlc
 choco install -y vscode
 choco install -y nvidia-display-driver
 choco install -y openrgb
+choco install -y discord
 
 # upgrade all
 choco upgrade all -y
